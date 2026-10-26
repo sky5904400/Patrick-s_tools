@@ -142,12 +142,6 @@ export default function Home() {
               >
                 開始探索 ↓
               </a>
-              <Link
-                href="/omikuji"
-                className="rounded-full border border-stone-300 bg-white/70 px-7 py-3 font-semibold backdrop-blur transition hover:-translate-y-0.5 hover:bg-white"
-              >
-                先抽個籤 🎋
-              </Link>
             </div>
           </div>
         </section>
